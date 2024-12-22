@@ -27,7 +27,7 @@ I did not bother to restore the original GUI, I left an old cracked versions GUI
 https://github.com/user-attachments/assets/07d734cd-33c7-4cb3-9d94-a634b5bce69f
 
 ## 📸 〢 Screenshot
-![ZAGREUS](https://github.com/user-attachments/assets/02b7c363-ec92-48c6-af56-97f60be86392)
+![ZagreuS](https://github.com/user-attachments/assets/02b7c363-ec92-48c6-af56-97f60be86392)
 
 ## 🔥 〢 Features
 - Erasure of Shadowcopies/Backups  
