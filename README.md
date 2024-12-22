@@ -21,7 +21,7 @@ It encrypts every file with AES-RSA and comes with several malicious toggleable 
 Because of that, you no longer need to pay the author to get any kind of source/build.  
 
 🛠️ Times work, a few hours to fix damaged designer code and restore original states/functions.  
-I did not bother to restore the original GUI, I left an old cracked verions GUI instead.  
+I did not bother to restore the original GUI, I left an old cracked versions GUI instead.  
 
 ## 🎥 〢 Proof
 https://github.com/user-attachments/assets/07d734cd-33c7-4cb3-9d94-a634b5bce69f
